@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/KineBeo/int3306-55-web-project-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/KineBeo/int3306-55-web-project-frontend.git
